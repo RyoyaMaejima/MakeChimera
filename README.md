@@ -6,9 +6,9 @@
 - リストに表示されたキメラの名前からあてはまる動物を選ぶ2Dパズルゲーム
 - 左のボックス内の動物の１文字目と右のボックス内の２文字目を組み合わせることで、新たな名前のキメラを作り出すことができる
 
-![](https://github.com/RyoyaMaejima/MakeChimera/blob/main/ReadmeSrc/Chimera.png)
-
 ![](https://github.com/RyoyaMaejima/MakeChimera/blob/main/ReadmeSrc/Ingame.png)
+
+![](https://github.com/RyoyaMaejima/MakeChimera/blob/main/ReadmeSrc/Chimera.png)
 
 ## 操作方法
 - ドラッグ：動物を掴んで動かす
