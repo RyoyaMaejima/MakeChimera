@@ -29,9 +29,9 @@ https://gamejam.marv.jp/202408/
 - 使用ツール：Unity
 
 ## ディレクトリ構成
-Scripts内にソースコード一式を載せています。  
-Scripts/Controller/SelectとScripts/Model/Boxを実装しました。  
-以下が各ファイルの説明。
+Scripts内にソースコード一式を載せています  
+Scripts/Controller/SelectとScripts/Model/Boxを実装しました  
+以下が各ファイルの説明
 
 - Select：動物をドラッグアンドドロップする挙動を管理するスクリプト
 - Box：動物を入れる箱の挙動を管理するスクリプト
